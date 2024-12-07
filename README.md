@@ -34,3 +34,7 @@ Using var, instead of let or const doesn't trigger any error. But who uses var a
 ### 1.0.0
 
 Initial release.
+
+---
+
+**Enjoy!**
