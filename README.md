@@ -1,6 +1,6 @@
 # no shadowing bom variable js README
 
-Warns the developer he is shadowing a BOM object.
+VS code extension that warns the developer he is shadowing a BOM object.
 
 Even though shadowing an object is syntactically right, I made so it's wrong, because **there is no way** this is allowed:
 
