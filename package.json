@@ -3,6 +3,11 @@
   "displayName": "no shadowing BOM variable js",
   "description": "Warns the developer he is shadowing a BOM object",
   "version": "0.0.1",
+  "publisher": "calululu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calululu/no-shadowing-bom-variables-js.git"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
